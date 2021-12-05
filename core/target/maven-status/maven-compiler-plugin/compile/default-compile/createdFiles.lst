@@ -1,0 +1,9 @@
+service\core\AbstractQuotationService.class
+service\message\QuotationRequestMessage.class
+service\core\Quotation.class
+service\core\QuotationService.class
+service\core\ClientInfo.class
+service\message\ClientApplicationMessage.class
+service\message\QuotationResponseMessage.class
+service\core\Constants.class
+service\core\BrokerService.class
